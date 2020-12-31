@@ -1,2 +1,2 @@
 ## Usage
-Add script to cron to take snapshots on a schedule
+Add script to cron to take VirtualBox snapshots on a schedule
